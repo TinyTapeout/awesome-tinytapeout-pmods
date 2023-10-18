@@ -4,6 +4,6 @@ Working on a PMOD for the [Tiny Tapeout Demo PCB](https://github.com/TinyTapeout
 
 ## List of PMODs
 
-TBD
+- [Simon Says PMOD](https://github.com/urish/tt-simon-pmod) - For playing [TT04 Simon Says](https://github.com/urish/tt-simon-pmod). Includes 4 LEDs, 4 Push buttons, a piezo buzzer, and two digit 7-segment display.
 
 License: CC0
