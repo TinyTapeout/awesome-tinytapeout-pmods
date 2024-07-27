@@ -10,5 +10,6 @@ Working on a PMOD for the [Tiny Tapeout Demo PCB](https://github.com/TinyTapeout
 - [QSPI Flash and PSRAM](https://github.com/mole99/qspi-pmod) - 16MB of Flash and 16MB of RAM over a QSPI bus to add some ROM and RAM to your project.
 - [TT Audio Pmod](https://github.com/MichaelBell/tt-audio-pmod) - Mono PWM audio Pmod with line out and piezo speaker, designed for compatibility with the QSPI Pmod.
 - [VGA Clock PMOD](https://github.com/TinyTapeout/tt-vga-clock-pmod) - VGA output (2 bit per color) + 3 input buttons, compatible with [TT03p5 VGA Clock](https://github.com/TinyTapeout/tt03p5-vga-clock)
+- [KianV QSPI Flash and PSRAM](https://github.com/splinedrive/kianRiscV/tree/master/archive/pcb/pmod_nor_psram) - 8MB of Flash and 8MB of RAM over a QSPI bus to run uLinux on TT05, or as you prefer.
 
 License: CC0
