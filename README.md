@@ -13,5 +13,6 @@ Working on a Pmod for the [Tiny Tapeout Demo PCB](https://github.com/TinyTapeout
 - [KianV QSPI Flash and PSRAM](https://github.com/splinedrive/kianRiscV/tree/master/archive/pcb/pmod_nor_psram) - 8MB of Flash and 8MB of RAM over a QSPI bus to run uLinux on TT05, or as you prefer.
 - [TT05 Stopwatch Pmod](https://github.com/I2SenseLab/TT05-SW-PMOD) - Pmod to immitate some of the functionality present on the Basys 3 FPGA board. It has 2 switches, 5 buttons, and a 4 digit seven segment display. It is directly compatible with [TT05 Stopwatch](https://github.com/devinatkin/tt05-stopwatch).
 - [Gamepad Pmod](https://github.com/psychogenic/gamepad-pmod) - SNES-compatible gamepad controller Pmod. Can interface one or two controllers and report their state over three ui_in pins (clock, data, and latch).
+- [IR Pmod](https://github.com/flummer/tt-ir-pmod) - Infrared blaster Pmod, designed to worrk with the [TV-B-GONE](https://tinytapeout.com/chips/ttsky25a/tt_um_tv_b_gone) project on [TT SKY 25a](https://tinytapeout.com/chips/ttsky25a/)
 
 License: CC0
