@@ -14,5 +14,6 @@ Working on a Pmod for the [Tiny Tapeout Demo PCB](https://github.com/TinyTapeout
 - [TT05 Stopwatch Pmod](https://github.com/I2SenseLab/TT05-SW-PMOD) - Pmod to immitate some of the functionality present on the Basys 3 FPGA board. It has 2 switches, 5 buttons, and a 4 digit seven segment display. It is directly compatible with [TT05 Stopwatch](https://github.com/devinatkin/tt05-stopwatch).
 - [Gamepad Pmod](https://github.com/psychogenic/gamepad-pmod) - SNES-compatible gamepad controller Pmod. Can interface one or two controllers and report their state over three ui_in pins (clock, data, and latch).
 - [IR Pmod](https://github.com/flummer/tt-ir-pmod) - Infrared blaster Pmod, designed to work with the [TV-B-GONE](https://tinytapeout.com/chips/ttsky25a/tt_um_tv_b_gone) project on [TT SKY 25a](https://tinytapeout.com/chips/ttsky25a/)
+- [Stereo VGA](https://github.com/FangameEmpire/Stereo_VGA) - VGA output (4 bits per color) in the same pinout as the [Digilent VGA PMOD](https://digilent.com/shop/pmod-vga-video-graphics-array/), with stereo audio channels based on the [TT Audio Pmod](https://github.com/MichaelBell/tt-audio-pmod).
 
 License: CC0
